@@ -1,4 +1,24 @@
-00:01 : LOW : 16.898927688598633 :Unusual increase in crowd movement
-00:04 : LOW : 24.838573455810547 :Unusual increase in crowd movement
-00:08 : LOW : 29.103191375732422 :Unusual increase in crowd movement
-00:11 : LOW : 18.888832092285156 :Unusual increase in crowd movement
+
+00:01 : LOW : 15.561321258544922 :Unusual increase in crowd movement :BOTTOM:A sudden shift in pixel movement was detected
+
+
+00:01 : MEDIUM : 42.19499206542969 :Rapid crowd movement detected :TOP:A moderate amount of pixel movement was detected for multiple frames
+
+
+00:03 : HIGH: 105.68033599853516 :Continuous high activity in the region :TOP:High density: Unit: observation unit
+ACtion: OBserve the situation only via feed
+Urgency: minimal
+
+
+
+00:06 : MEDIUM : 50.6461181640625 :Rapid crowd movement detected :BOTTOM:A moderate amount of pixel movement was detected for multiple frames
+
+
+00:06 : HIGH: 74.35368347167969 :Continuous high activity in the region :BOTTOM:High density: Unit: observation unit
+ACtion: OBserve the situation only via feed
+Urgency: minimal
+
+
+
+00:09 : MEDIUM : 53.1192626953125 :Rapid crowd movement detected :BOTTOM:A moderate amount of pixel movement was detected for multiple frames
+
